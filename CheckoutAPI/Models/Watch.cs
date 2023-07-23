@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace CheckoutAPI
 {
@@ -26,5 +27,6 @@ namespace CheckoutAPI
         public bool HasDiscount() { return Discount != null;  }
 
     }
+
 }
     
