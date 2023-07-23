@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CheckoutAPI</name>
+    </assembly>
+    <members>
+        <member name="M:CheckoutAPI.Controllers.CheckoutController.GetWatchCatalogue">
+            <summary>
+            Review the list of available watches in the catalogue
+            </summary>
+        </member>
+        <member name="M:CheckoutAPI.Controllers.CheckoutController.Checkout(System.Collections.Generic.List{System.String})">
+            <summary>
+            Calculate total cost for checkout
+            </summary>
+        </member>
+    </members>
+</doc>
